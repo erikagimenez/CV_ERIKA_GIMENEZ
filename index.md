@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Datos personales 
+- Erika Giemenez Coll 
+- 13 de Octubre de 2004 
+- gimenez17548@iesmarenostrum.com 
+- 611340665/633062245
 
-You can use the [editor on GitHub](https://github.com/erikagimenez/CV_ERIKA_GIMENEZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Formación académica 
+- Formación profesional básica de informática de oficina
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experiencia profesional 
+- Murcia 
+- Junio 2020- Julio 2020 
+- Camarera. 
 
-### Markdown
+# Idiomas 
+- Inglés- A1
+- Francés-A1 
+- Valenciano- A2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Habilidades/conocimientos 
+- Ofimatica
+- Redes
+- FOL
+- Escritura-Comunicación y sociedad 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erikagimenez/CV_ERIKA_GIMENEZ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Aficiones 
+- Música- tocar la guitarra
