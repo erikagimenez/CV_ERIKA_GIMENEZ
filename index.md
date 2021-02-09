@@ -8,10 +8,8 @@
 - Formación profesional básica de informática de oficina
 
 # Experiencia profesional 
-- Murcia 
-- Junio 2020- Julio 2020 
-- Camarera. 
-
+- Murcia-Junio 2020- Julio 2020-Camarera.
+ 
 # Idiomas 
 - Inglés- A1
 - Francés-A1 
