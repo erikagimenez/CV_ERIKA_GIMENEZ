@@ -24,3 +24,5 @@
 # Aficiones 
 - Música- tocar la guitarra
 
+# Proyectos personales 
+[Mis trabajos](trabajos.md)
