@@ -22,4 +22,4 @@ En esta imagen se puede ver el tatuaje que me haría pero en las costillas y con
 ## Puerto rico
 
 En esta imagen se puede ver donde sería mi lugar perfecto para irme de viaje. 
-![Foto](./fotos/puerto.rico.jpg)
+![Foto](./fotos/puertorico.jpg)
