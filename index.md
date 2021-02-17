@@ -24,6 +24,7 @@
 # Aficiones 
 - Música- tocar la guitarra
 - [Mis videos favoritos](videos.md)
+- [Mis fotos vavoritas](fotos.md)
 
 # Proyectos personales 
 [Mis trabajos](trabajos.md)
